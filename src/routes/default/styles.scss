@@ -1,3 +1,14 @@
+.wrap {
+  background-color: #f0f0f0;
+  height: 100%;
+}
+.title {
+  font-size: 20px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 10px;
+}
 .row {
   display: flex;
+  justify-content: center;
 }

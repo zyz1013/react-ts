@@ -1,5 +1,6 @@
 import * as React from "react";
 import * as ReactDOM from "react-dom";
+import "./components/styles/index.scss";
 import Loader from "./Loader";
 
 let App = Loader;
